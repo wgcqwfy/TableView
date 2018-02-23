@@ -1,3 +1,8 @@
+# TableView是一个用于显示数据表格的JavaScript控件，集成的分页控件，可对表格中的数据集进行客户端分页，亦可对表格中的数据集进行客户端排序，JavaScript 控件：
+ - TableView(数据表格控件), 可配置标题, 计数, 行复选框, 过滤器, 分页, 排序, 多选
+ - PagerView(分页控件)
+ - SortView(排序控件)
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/evrencoskun/TableViewSample/master/Logo-5.png" >
     <h2>TableView For Android</h2>
